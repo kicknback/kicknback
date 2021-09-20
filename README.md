@@ -1,16 +1,19 @@
-### Hi there 👋
+Previous Network Engineer turned software developer with 4+ years of experience using Javascript, HTML, Python, SQL, BASH, and some Java to build proprietary automations that relieved engineers of performing mundane or simple network tasks and reporting.  Looking to leverage my knowledge and experience with programming languages into a software development/DevOps role.
 
-<!--
-**kicknback/kicknback** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on my team's capstone project
+- 🌱 I’m currently learning APIs in a modular Javascript environment
+- 👯 I’m looking to collaborate on any project that challenges me beyond my comfort zone
+- 🤔 I’m looking for help with obtaining software engineering employment
+- 💬 Ask me about my passion for the construction of entities through code
+- 📫 How to reach me: joshua.borreli@gmail.com
+- ⚡ Fun fact: I was a US Army infantrymen for 4 years
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kicknback&theme=dark&stroke=DD2727&fire=DD2727)](https://git.io/streak-stats)
+
+

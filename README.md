@@ -1,4 +1,4 @@
-Previous Network Engineer turned software developer with 4+ years of experience using Javascript, HTML, Python, SQL, BASH, and some Java to build proprietary automations that relieved engineers of performing mundane or simple network tasks and reporting.  Looking to leverage my knowledge and experience with programming languages into a software development/DevOps role.
+Previous Network Engineer turned software developer with 4+ years of experience using Javascript, HTML, Python, SQL, BASH, and Java to build proprietary automations that relieved engineers of performing mundane or simple network tasks and reporting.  Looking to leverage my knowledge and experience with programming languages into a software development/DevOps role.
 
 
 - 🔭 I’m currently working on my team's capstone project
